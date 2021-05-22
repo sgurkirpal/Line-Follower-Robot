@@ -3,6 +3,8 @@
 A working model of line follower robot by using Arduio uno.
 
 ![image](https://user-images.githubusercontent.com/58677568/119220578-e02b5200-bb08-11eb-8abd-2227466b6959.png)
+![alt text](https://github.com/sgurkirpal/Line-Follower-Robot/blob/main/robot_video.gif?raw=true)
+
 Our Robot
 
 ## What is a Line Follower
