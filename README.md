@@ -2,6 +2,9 @@
 
 A working model of line follower robot by using Arduio uno.
 
+![image](https://user-images.githubusercontent.com/58677568/119220522-92164e80-bb08-11eb-9d1d-16563f1ed9fa.png)
+Our Robot
+
 ## What is a Line Follower
 A line follower robot is a robot that can track lines and follow them, proceeding along a preset path that can be altered by moving the lines. Our robot can distinguish between different colors, making it possible for them to follow one among several lines accurately.
 
